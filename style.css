@@ -1,0 +1,43 @@
+.tcontainer {
+  width: 1472px;
+  height: 100px;
+  text-align: center;
+}
+
+.count-up {
+  font-size: 150px;
+  padding: 30px 0;
+}
+
+.sbtn {
+  font-size: 90px;
+  color: white;
+  background-color: blue;
+  width: 350px;
+  height: 150px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+#start:disabled {
+  background-color: gray;
+}
+
+.ebtn {
+  font-size: 90px;
+  color: white;
+  background-color: red;
+  width: 350px;
+  height: 150px;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.notifibtn {
+  font-size: 40px;
+  border: 1px solid black;
+  width: 250px;
+  height: 80px;
+  display: inline-block;
+  margin-top: 40px;
+}
